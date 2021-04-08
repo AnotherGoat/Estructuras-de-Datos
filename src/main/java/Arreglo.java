@@ -1,4 +1,12 @@
 
+/* Para generar javadoc:
+Ir a Tools > Generate JavaDoc...
+Elegir una carpeta (vacía) para guardarlo
+En la opción "Other command line arguments" poner lo siguiente:
+-encoding utf8 -docencoding utf8 -charset utf8
+Para abrir el javadoc, abrir el archivo "index.html" con un navegador
+ */
+
 public class Arreglo {
 
     private final long[] a;
